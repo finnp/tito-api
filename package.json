@@ -1,0 +1,23 @@
+{
+  "name": "tito-api",
+  "version": "1.0.0",
+  "description": "yes, there is a ti.to api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnp/tito-api.git"
+  },
+  "keywords": [
+    "tito",
+    "tickets"
+  ],
+  "author": "Finn Pauls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finnp/tito-api/issues"
+  },
+  "homepage": "https://github.com/finnp/tito-api#readme"
+}
