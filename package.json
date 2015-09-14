@@ -1,7 +1,7 @@
 {
   "name": "tito-api",
   "version": "1.0.0",
-  "description": "yes, there is a ti.to api",
+  "description": "yes, there is a tito api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/finnp/tito-api/issues"
   },
-  "homepage": "https://github.com/finnp/tito-api#readme"
+  "homepage": "https://github.com/finnp/tito-api#readme",
+  "dependencies": {
+    "JSONStream": "^1.0.4",
+    "hyperquest": "^1.2.0",
+    "ndjson": "^1.4.1"
+  }
 }
